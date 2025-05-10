@@ -1,6 +1,8 @@
 <h2 align="left"></h2>
 
 ###
+<img src="SHIKHAR.jpg" />
+###
 
 <h2 align="left">🔭 I’m currently Studying At Axis Colleges<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Team Collabs<br>🌱 I’m currently learning <br>💬 Ask me about  My Works<br>⚡ Fun fact I am Founder of My Own Startup</h2>
 
